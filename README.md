@@ -17,7 +17,7 @@ Berikut adalah tugas dari Latihan, bisa dilihat pada gambar dibawah ini :
 ### Latihan
 Berikut jawaban / source code / program sederhana yang telah saya buat :
 
-'''ruby
+```ruby
 print("Nama : Indira Rully Pricilia")
 print("NIM : 312110354")
 print("Kelas : TI.21.CA.1")
@@ -63,7 +63,7 @@ print(baris)
 print("Menggabungkan list A dengan List B")
 gabung = daftar + baris
 print(gabung)
-'''
+```
 
 Untuk hasil dari source code tersebut adalah seperti berikut :
 ![img](Screenshot/ss1.png)
