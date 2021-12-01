@@ -2,10 +2,11 @@
 
 ## Tugas Pertemuan 9 - Praktikum (Bahasa Pemrograman)
 
+```ruby
 = Nama : Indira Rully Pricilia
 = NIM : 312110354
 = Kelas : TI.21.CA.1
-
+```
 =======================================================
 Pada mata kuliah Bahasa Pemrograman - Pertemuan 9 kali ini saya mendapatkan materi List, Tuple dan Dictionary. Nah, untuk praktikum ini materi yang didapatkan adalah List.
 
@@ -81,7 +82,7 @@ Hasil yang di harapkan oleh dosen adalah seperti berikut :
 ![img](Screenshot/ss3.png)
 
 • Pada akhirnya saya bisa membuat program yang diberikan oleh dosen. Berikut source code yang telah saya temukan untuk membuat program sederhana Data Nilai Mahasiswa :
-
+```ruby
 from prettytable import PrettyTable
 
 print("Nama : Indira Rully Pricilia")
@@ -120,6 +121,7 @@ for data in daftar:
      x.field_names = ["No", "Nama", "NIM", "Tugas", "UTS", "UAS", "Nilai Akhir"]
      x.add_row([i, data[0], data[1], data[2], data[3], data[4], data[5]])
 print(x)
+```
 
 • Didalam source code atau soal tersebut menunjukkan bahwa system harus menampilkan data sebanyak-banyaknya jika user menginputkan Y pada pilihan Tambah Data? . Sedangkan hasilnya juga harus sama, menampilkan data sebanyak yang user inputkan. Dan harus terbentuk dalam Table.
 
@@ -131,9 +133,10 @@ Berikut hasil yang saya dapatkan ketika saya menginputkan 2 atau lebih Data Nila
 
 Saya akan menjelaskan secara singkat tentang source code tersebut.
 
-Saya menggunakan fungsi While untuk mengantur kondisi, seperti While not stop, jadi jika tidak berhenti maka system akan terus menampilkan perintah user untuk menginputkan data mahasiswa
+- Saya menggunakan fungsi While untuk mengantur kondisi, seperti While not stop, jadi jika tidak berhenti maka system akan terus menampilkan perintah user untuk menginputkan data mahasiswa
 Penjelasan tersebut atau bisa digunakan ketika kita mengetikan huruf n pada peritah : Tambah Data? (y/n)
-Untuk perhitungan nilai akhir sesuai dengan ketentuan yang dosen inginkan, yatu 30% dari Nilai Tugas, 35% dari Nilai UTS, dan 35% dari Nilai UAS
+
+- Untuk perhitungan nilai akhir sesuai dengan ketentuan yang dosen inginkan, yatu 30% dari Nilai Tugas, 35% dari Nilai UTS, dan 35% dari Nilai UAS
 Sedangkan untuk menampilkan hasil dari inputan user tersebut saya menggunakan fungsi atau modul dari PrettyTable(),
 
 Untuk menggunakan module dari Pretty Table, saya harus melakukan beberapa persyaratan yang harus di install. Yaitu : PIP, PrettyTable dan Numpy.
