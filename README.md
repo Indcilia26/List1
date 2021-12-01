@@ -1,11 +1,12 @@
 # List1
 
-## Tugas Pertemuan 9 - Praktikum(Bahasa Pemrograman)
+## Tugas Pertemuan 9 - Praktikum (Bahasa Pemrograman)
 
 = Nama : Indira Rully Pricilia
 = NIM : 312110354
 = Kelas : TI.21.CA.1
 
+=======================================================
 Pada mata kuliah Bahasa Pemrograman - Pertemuan 9 kali ini saya mendapatkan materi List, Tuple dan Dictionary. Nah, untuk praktikum ini materi yang didapatkan adalah List.
 
 Didalam materi praktikum ini terdapat 2 tugas. Yaitu : Latihan dan Praktikum.
@@ -15,6 +16,8 @@ Berikut adalah tugas dari Latihan, bisa dilihat pada gambar dibawah ini :
 
 ### Latihan
 Berikut jawaban / source code / program sederhana yang telah saya buat :
+
+'''ruby
 print("Nama : Indira Rully Pricilia")
 print("NIM : 312110354")
 print("Kelas : TI.21.CA.1")
@@ -60,6 +63,7 @@ print(baris)
 print("Menggabungkan list A dengan List B")
 gabung = daftar + baris
 print(gabung)
+'''
 
 Untuk hasil dari source code tersebut adalah seperti berikut :
 ![img](Screenshot/ss1.png)
