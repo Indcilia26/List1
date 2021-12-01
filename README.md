@@ -10,7 +10,7 @@
 
 ==================================
 
-Pada mata kuliah Bahasa Pemrograman - Pertemuan 9 kali ini saya mendapatkan materi List, Tuple dan Dictionary. Nah, untuk praktikum ini materi yang didapatkan adalah *List.
+Pada mata kuliah Bahasa Pemrograman - Pertemuan 9 kali ini saya mendapatkan materi List, Tuple dan Dictionary. Nah, untuk praktikum ini materi yang didapatkan adalah **List**.
 
 Didalam materi praktikum ini terdapat 2 tugas. Yaitu : Latihan dan Praktikum.
 
@@ -85,7 +85,7 @@ Hasil yang di harapkan oleh dosen adalah seperti berikut :
 
 • Pada akhirnya saya bisa membuat program yang diberikan oleh dosen. Berikut source code yang telah saya temukan untuk membuat program sederhana Data Nilai Mahasiswa :
 ```ruby
-from prettytable import PrettyTable
+from PrettyTable import PrettyTable
 
 print("Nama : Indira Rully Pricilia")
 print("NIM : 312110354")
@@ -148,4 +148,4 @@ Berikut flowchart tsb.
 
 Mungkin sekian yang dapat saya jelaskan, terimakasih atas perhatiannya..
 
-Indira Rully Pricilia - 312110354 - TI.21.CA.1 
+# Indira Rully Pricilia - 312110354 - TI.21.CA.1 
