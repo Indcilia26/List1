@@ -50,7 +50,7 @@ print("ubah elemen ke 4 sampai dengan elemen terakhir")
 daftar[3:5] = [16, 20]
 print(daftar)
 
-- Tambah Element List
+- Tambah element list
 print("ambil 2 bagian dari list pertama(A) dan jadikan list ke2(B)")
 baris = daftar[3:5]
 print(baris)
