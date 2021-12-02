@@ -13,12 +13,12 @@
 Pada mata kuliah B. Pemrograman Pertemuan 9 kali ini saya mendapatkan materi *List, Tuple dan Dictionary*. Nah, untuk praktikum ini materi yang didapatkan adalah **List**.
 
  • Didalam materi praktikum ini terdapat 2 tugas. Yaitu : **Latihan dan Praktikum**.
- 
+
+### Latihan 
  • Berikut adalah tugas dari Latihan, bisa dilihat pada gambar dibawah ini :
 
 ![img](Screenshot/ss1.png)
 
-### Latihan
  • Berikut jawaban / source code / program sederhana yang telah saya buat :
 
 ```ruby
