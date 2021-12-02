@@ -12,13 +12,13 @@
 
 Pada mata kuliah Bahasa Pemrograman - Pertemuan 9 kali ini saya mendapatkan materi List, Tuple dan Dictionary. Nah, untuk praktikum ini materi yang didapatkan adalah **List**.
 
-• Didalam materi praktikum ini terdapat 2 tugas. Yaitu : **Latihan dan Praktikum**.
+     • Didalam materi praktikum ini terdapat 2 tugas. Yaitu : **Latihan dan Praktikum**.
 
-• Berikut adalah tugas dari Latihan, bisa dilihat pada gambar dibawah ini :
+     • Berikut adalah tugas dari Latihan, bisa dilihat pada gambar dibawah ini :
 ![img](Screenshot/ss1.png)
 
 ### Latihan
-• Berikut jawaban / source code / program sederhana yang telah saya buat :
+    • Berikut jawaban / source code / program sederhana yang telah saya buat :
 
 ```ruby
 print("Nama : Indira Rully Pricilia")
@@ -68,7 +68,7 @@ gabung = daftar + baris
 print(gabung)
 ```
 
-• Untuk hasil dari source code tersebut adalah seperti berikut :
+     • Untuk hasil dari source code tersebut adalah seperti berikut :
 ![img](Screenshot/ss1.png)
  
 Nah seperti itulah hasil dari program Latihan yang diberikan oleh dosen.
@@ -77,13 +77,13 @@ Nah seperti itulah hasil dari program Latihan yang diberikan oleh dosen.
 
 Untuk tugas yang kedua yaitu Tugas Praktikum, yaitu tugas untuk membuat program sederhana menampilkan Data Nilai Mahasiswa.
 
-• Berikut soal yang diberikan oleh dosen :
+    • Berikut soal yang diberikan oleh dosen :
 ![img](Screenshot/ss3.png)
 
-• Hasil yang di harapkan oleh dosen adalah seperti berikut :
+    • Hasil yang di harapkan oleh dosen adalah seperti berikut :
 ![img](Screenshot/ss3.png)
 
-• Pada akhirnya saya bisa membuat program yang diberikan oleh dosen. Berikut source code yang telah saya temukan untuk membuat program sederhana Data Nilai Mahasiswa :
+    • Pada akhirnya saya bisa membuat program yang diberikan oleh dosen. Berikut source code yang telah saya temukan untuk membuat program sederhana Data Nilai Mahasiswa :
 ```ruby
 from PrettyTable import PrettyTable
 
@@ -125,21 +125,20 @@ for data in daftar:
 print(x)
 ```
 
-• Didalam source code atau soal tersebut menunjukkan bahwa system harus menampilkan data sebanyak-banyaknya jika user menginputkan Y pada pilihan Tambah Data? . Sedangkan hasilnya juga harus sama, menampilkan data sebanyak yang user inputkan. Dan harus terbentuk dalam Table.
+     • Didalam source code atau soal tersebut menunjukkan bahwa system harus menampilkan data sebanyak-banyaknya jika user menginputkan Y pada pilihan Tambah Data? . Sedangkan hasilnya juga harus sama, menampilkan data sebanyak yang user inputkan. Dan harus terbentuk dalam Table.
 
-• Berikut hasil yang saya dapatkan ketika saya menginputkan 1 data mahasiswa :
+     • Berikut hasil yang saya dapatkan ketika saya menginputkan 1 data mahasiswa :
 ![img](Screenshot/ss3.png)
 
-• Berikut hasil yang saya dapatkan ketika saya menginputkan 2 atau lebih Data Nilai Mahasiswa :
+     • Berikut hasil yang saya dapatkan ketika saya menginputkan 2 atau lebih Data Nilai Mahasiswa :
 ![img](Screenshot/ss3.png)
 
 Saya akan menjelaskan secara singkat tentang source code tersebut.
 
-> Saya menggunakan fungsi While untuk mengantur kondisi, seperti While not stop, jadi jika tidak berhenti maka system akan terus menampilkan perintah user untuk menginputkan data mahasiswa
-Penjelasan tersebut atau bisa digunakan ketika kita mengetikan huruf n pada peritah : Tambah Data? (y/n)
-
-> Untuk perhitungan nilai akhir sesuai dengan ketentuan yang dosen inginkan, yatu 30% dari Nilai Tugas, 35% dari Nilai UTS, dan 35% dari Nilai UAS
-Sedangkan untuk menampilkan hasil dari inputan user tersebut saya menggunakan fungsi atau modul dari PrettyTable(),
+> *Saya menggunakan fungsi While untuk mengantur kondisi, seperti While not stop, jadi jika tidak berhenti maka system akan terus menampilkan perintah user untuk menginputkan data mahasiswa
+Penjelasan tersebut atau bisa digunakan ketika kita mengetikan huruf n pada peritah : Tambah Data? (y/n)*
+> *Untuk perhitungan nilai akhir sesuai dengan ketentuan yang dosen inginkan, yatu 30% dari Nilai Tugas, 35% dari Nilai UTS, dan 35% dari Nilai UAS
+Sedangkan untuk menampilkan hasil dari inputan user tersebut saya menggunakan fungsi atau modul dari PrettyTable(),*
 
 Untuk menggunakan module dari Pretty Table, saya harus melakukan beberapa persyaratan yang harus di install. Yaitu : PIP, PrettyTable dan Numpy.
 
