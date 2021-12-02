@@ -135,9 +135,10 @@ print(x)
 
 Saya akan menjelaskan secara singkat tentang source code tersebut.
 
-> *Saya menggunakan fungsi While untuk mengantur kondisi, seperti While not stop, jadi jika tidak berhenti maka system akan terus menampilkan perintah user untuk menginputkan data mahasiswa
-Penjelasan tersebut atau bisa digunakan ketika kita mengetikan huruf n pada peritah : Tambah Data? (y/n)*
-> *Untuk perhitungan nilai akhir sesuai dengan ketentuan yang dosen inginkan, yatu 30% dari Nilai Tugas, 35% dari Nilai UTS, dan 35% dari Nilai UAS
+> Saya menggunakan fungsi While untuk mengantur kondisi, seperti While not stop, jadi jika tidak berhenti maka system akan terus menampilkan perintah user untuk menginputkan data mahasiswa
+Penjelasan tersebut atau bisa digunakan ketika kita mengetikan huruf n pada peritah : *Tambah Data? (y/n)*
+
+> Untuk perhitungan nilai akhir sesuai dengan ketentuan yang dosen inginkan, yatu *30% dari Nilai Tugas, 35% dari Nilai UTS, dan 35% dari Nilai UAS
 Sedangkan untuk menampilkan hasil dari inputan user tersebut saya menggunakan fungsi atau modul dari PrettyTable(),*
 
 Untuk menggunakan module dari Pretty Table, saya harus melakukan beberapa persyaratan yang harus di install. Yaitu : PIP, PrettyTable dan Numpy.
