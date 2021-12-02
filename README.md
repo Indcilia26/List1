@@ -69,7 +69,7 @@ print(gabung)
 ```
 
  • Untuk hasil dari source code tersebut adalah seperti berikut :
-![img](Screenshot/ss1.png)
+![img](Screenshot/ss2.png)
  
 Nah seperti itulah hasil dari program Latihan yang diberikan oleh dosen.
 
@@ -78,14 +78,14 @@ Nah seperti itulah hasil dari program Latihan yang diberikan oleh dosen.
 Untuk tugas yang kedua yaitu Tugas Praktikum, yaitu tugas untuk membuat program sederhana menampilkan Data Nilai Mahasiswa.
 
  • Berikut soal yang diberikan oleh dosen :
-![img](Screenshot/ss3.png)
+![img](Screenshot/ss4.png)
 
  • Hasil yang di harapkan oleh dosen adalah seperti berikut :
 ![img](Screenshot/ss3.png)
 
  • Pada akhirnya saya bisa membuat program yang diberikan oleh dosen. Berikut source code yang telah saya temukan untuk membuat program sederhana Data Nilai Mahasiswa :
 ```ruby
-from PrettyTable import PrettyTable
+from Prettytable import PrettyTable
 
 print("Nama : Indira Rully Pricilia")
 print("NIM : 312110354")
@@ -128,10 +128,10 @@ print(x)
  • Didalam source code atau soal tersebut menunjukkan bahwa system harus menampilkan data sebanyak-banyaknya jika user menginputkan Y pada pilihan Tambah Data? . Sedangkan hasilnya juga harus sama, menampilkan data sebanyak yang user inputkan. Dan harus terbentuk dalam Table.
 
  • Berikut hasil yang saya dapatkan ketika saya menginputkan 1 data mahasiswa :
-![img](Screenshot/ss3.png)
+![img](Screenshot/ss5.png)
 
  • Berikut hasil yang saya dapatkan ketika saya menginputkan 2 atau lebih Data Nilai Mahasiswa :
-![img](Screenshot/ss3.png)
+![img](Screenshot/ss6.png)
 
 Saya akan menjelaskan secara singkat tentang source code tersebut.
 
@@ -144,7 +144,7 @@ Sedangkan untuk menampilkan hasil dari inputan user tersebut saya menggunakan fu
 Untuk menggunakan module dari Pretty Table, saya harus melakukan beberapa persyaratan yang harus di install. Yaitu : PIP, PrettyTable dan Numpy.
 
 Berikut flowchart tsb.
-![img](Screenshot/ss6.png)
+![img](Screenshot/ss7.png)
 
 Mungkin sekian yang dapat saya jelaskan, terimakasih atas perhatiannya..
 
