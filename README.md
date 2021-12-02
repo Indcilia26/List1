@@ -15,6 +15,7 @@ Pada mata kuliah Bahasa Pemrograman - Pertemuan 9 kali ini saya mendapatkan mate
  • Didalam materi praktikum ini terdapat 2 tugas. Yaitu : **Latihan dan Praktikum**.
  
  • Berikut adalah tugas dari Latihan, bisa dilihat pada gambar dibawah ini :
+
 ![img](Screenshot/ss1.png)
 
 ### Latihan
@@ -78,9 +79,11 @@ Nah seperti itulah hasil dari program Latihan yang diberikan oleh dosen.
 Untuk tugas yang kedua yaitu Tugas Praktikum, yaitu tugas untuk membuat program sederhana menampilkan Data Nilai Mahasiswa.
 
  • Berikut soal yang diberikan oleh dosen :
+
 ![img](Screenshot/ss4.png)
 
  • Hasil yang di harapkan oleh dosen adalah seperti berikut :
+
 ![img](Screenshot/ss3.png)
 
  • Pada akhirnya saya bisa membuat program yang diberikan oleh dosen. Berikut source code yang telah saya temukan untuk membuat program sederhana Data Nilai Mahasiswa :
@@ -143,8 +146,9 @@ Sedangkan untuk menampilkan hasil dari inputan user tersebut saya menggunakan fu
 
 Untuk menggunakan module dari Pretty Table, saya harus melakukan beberapa persyaratan yang harus di install. Yaitu : PIP, PrettyTable dan Numpy.
 
-Berikut flowchart tsb.
-![img](Screenshot/ss7.png)
+Berikut flowchart tsb
+
+![img](Screenshot/ss7.jpg)
 
 Mungkin sekian yang dapat saya jelaskan, terimakasih atas perhatiannya..
 
