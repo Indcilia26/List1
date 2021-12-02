@@ -10,7 +10,7 @@
 
 ====================================
 
-Pada mata kuliah Bahasa Pemrograman - Pertemuan 9 kali ini saya mendapatkan materi List, Tuple dan Dictionary. Nah, untuk praktikum ini materi yang didapatkan adalah **List**.
+Pada mata kuliah Bahasa Pemrograman - Pertemuan 9 kali ini saya mendapatkan materi *List, Tuple dan Dictionary*. Nah, untuk praktikum ini materi yang didapatkan adalah **List**.
 
  • Didalam materi praktikum ini terdapat 2 tugas. Yaitu : **Latihan dan Praktikum**.
  
