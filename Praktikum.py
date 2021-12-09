@@ -8,7 +8,7 @@ print("Praktikum - Modul Praktikum")
 print()
 
 daftar = []
-stop = False
+stop = False 
 
 # Mengisi Nilai
 while not stop:
