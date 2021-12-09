@@ -42,4 +42,4 @@ print(baris)
 
 print("Menggabungkan list A dengan List B")
 gabung = daftar + baris
-print(gabung)
+print(gabung) 
